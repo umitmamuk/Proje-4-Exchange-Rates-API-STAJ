@@ -20,7 +20,7 @@ function eventListeners() { // eventListeners fonksiyonunu tanımladık
         ui.changeSecond(); // ui nesnesinin changeSecond metodunu çağırdık
         exchangeCurrency(); // exchangeCurrency fonksiyonunu çağırdık
     };
-
+// fonks sonu
 }
 
 function updateLocalStorage() {
